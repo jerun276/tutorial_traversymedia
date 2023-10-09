@@ -1,0 +1,3 @@
+<?php
+    # VARIABLES NAMING CONVENTION
+?>
